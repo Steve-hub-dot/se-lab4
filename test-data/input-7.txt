@@ -1,0 +1,4 @@
+# Create a ship with stocked primary store and empty secondary store
+GT4500,2,0,0,0
+TORPEDO,SINGLE  # should have fired, as both stores are stocked
+TORPEDO,SINGLE
